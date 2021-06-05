@@ -1,6 +1,7 @@
 {
   "name": "test-mercado-libre",
   "version": "0.1.0",
+  "author": "Camilo Fuentealba",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
